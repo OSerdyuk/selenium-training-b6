@@ -1,2 +1,2 @@
-# selenium-training-b6
+# Selenium Training - b6
 Course: Selenium WebDriver - full guide.
