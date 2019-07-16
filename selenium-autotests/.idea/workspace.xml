@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7e92cd22-a2cf-4267-bb75-028cb5f8ff19" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/javaexample/src/test/java/ru/selenium/tests/Lesson2_Task3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -15,23 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/javaexample/src/test/java/ru/selenium/tests/Lesson2_Task1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="29" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/javaexample/src/test/java/ru/selenium/tests/Lesson2_Task3.java">
+        <entry file="file://$PROJECT_DIR$/javaexample/src/test/java/ru/selenium/tests/Lesson4_Task7.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="20" column="51" selection-start-line="20" selection-start-column="51" selection-end-line="20" selection-end-column="51" />
+            <state relative-caret-position="543">
+              <caret line="40" selection-start-line="40" selection-end-line="40" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -40,13 +27,12 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-chrome-driver/3.141.59/selenium-chrome-driver-3.141.59.jar!/org/openqa/selenium/chrome/ChromeDriver.class">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Vector.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="32" column="11" selection-start-line="32" selection-start-column="11" selection-end-line="32" selection-end-column="11" />
+            <state relative-caret-position="127">
+              <caret line="317" selection-start-line="317" selection-end-line="317" />
               <folding>
-                <element signature="e#1419#1420#0" expanded="true" />
-                <element signature="e#1504#1505#0" expanded="true" />
+                <element signature="e#11833#11834#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -75,6 +61,7 @@
         <option value="$PROJECT_DIR$/javaexample/pom.xml" />
         <option value="$PROJECT_DIR$/javaexample/src/test/java/ru/selenium/tests/Lesson2_Task1.java" />
         <option value="$PROJECT_DIR$/javaexample/src/test/java/ru/selenium/tests/Lesson2_Task3.java" />
+        <option value="$PROJECT_DIR$/javaexample/src/test/java/ru/selenium/tests/Lesson4_Task7.java" />
       </list>
     </option>
   </component>
@@ -95,18 +82,20 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1912" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1048" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -174,13 +163,14 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562169698215" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563311331954" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -198,7 +188,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Lesson2_Task3">
+  <component name="RunManager" selected="JUnit.Lesson4_Task7">
     <configuration name="Lesson2_Task1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="javaexample" />
       <extension name="coverage">
@@ -229,8 +219,41 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lesson4_Task7" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaexample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.selenium.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.selenium.tests" />
+      <option name="MAIN_CLASS_NAME" value="ru.selenium.tests.Lesson4_Task7" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lesson4_Task7.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaexample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.selenium.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.selenium.tests" />
+      <option name="MAIN_CLASS_NAME" value="ru.selenium.tests.Lesson4_Task7" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Lesson4_Task7" />
+        <item itemvalue="JUnit.Lesson4_Task7.test" />
         <item itemvalue="JUnit.Lesson2_Task3" />
         <item itemvalue="JUnit.Lesson2_Task1" />
       </list>
@@ -249,50 +272,51 @@
       <workItem from="1562055026963" duration="5630000" />
       <workItem from="1562065134083" duration="1142000" />
       <workItem from="1562068276245" duration="444000" />
-      <workItem from="1562166661007" duration="1247000" />
+      <workItem from="1562166661007" duration="1481000" />
+      <workItem from="1563303707905" duration="7181000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Lesson2_Task1 - 2019.07.02 at 12h 46m 42s.xml">
-      <configuration name="Lesson2_Task1" configurationId="JUnit" />
+    <history-entry file="Lesson4_Task7 - 2019.07.16 at 23h 20m 18s.xml">
+      <configuration name="Lesson4_Task7" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Lesson2_Task1 - 2019.07.02 at 13h 59m 23s.xml">
-      <configuration name="Lesson2_Task1" configurationId="JUnit" />
+    <history-entry file="Lesson4_Task7_test - 2019.07.16 at 23h 42m 34s.xml">
+      <configuration name="Lesson4_Task7.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Lesson2_Task1 - 2019.07.02 at 14h 42m 29s.xml">
-      <configuration name="Lesson2_Task1" configurationId="JUnit" />
+    <history-entry file="Lesson4_Task7 - 2019.07.16 at 23h 46m 39s.xml">
+      <configuration name="Lesson4_Task7" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Lesson2_Task1 - 2019.07.02 at 14h 43m 11s.xml">
-      <configuration name="Lesson2_Task1" configurationId="JUnit" />
+    <history-entry file="Lesson4_Task7_test - 2019.07.16 at 23h 49m 50s.xml">
+      <configuration name="Lesson4_Task7.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Lesson2_Task1 - 2019.07.02 at 14h 43m 43s.xml">
-      <configuration name="Lesson2_Task1" configurationId="JUnit" />
+    <history-entry file="Lesson4_Task7 - 2019.07.16 at 23h 56m 09s.xml">
+      <configuration name="Lesson4_Task7" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Lesson2_Task1 - 2019.07.02 at 14h 44m 12s.xml">
-      <configuration name="Lesson2_Task1" configurationId="JUnit" />
+    <history-entry file="Lesson4_Task7 - 2019.07.16 at 23h 58m 22s.xml">
+      <configuration name="Lesson4_Task7" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Lesson2_Task3 - 2019.07.03 at 18h 51m 43s.xml">
-      <configuration name="Lesson2_Task3" configurationId="JUnit" />
+    <history-entry file="Lesson4_Task7 - 2019.07.16 at 23h 58m 49s.xml">
+      <configuration name="Lesson4_Task7" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Lesson2_Task3 - 2019.07.03 at 18h 56m 54s.xml">
-      <configuration name="Lesson2_Task3" configurationId="JUnit" />
+    <history-entry file="Lesson4_Task7 - 2019.07.16 at 23h 59m 26s.xml">
+      <configuration name="Lesson4_Task7" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Lesson2_Task3 - 2019.07.03 at 18h 57m 12s.xml">
-      <configuration name="Lesson2_Task3" configurationId="JUnit" />
+    <history-entry file="Lesson4_Task7 - 2019.07.17 at 00h 04m 57s.xml">
+      <configuration name="Lesson4_Task7" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Lesson2_Task3 - 2019.07.03 at 19h 00m 34s.xml">
-      <configuration name="Lesson2_Task3" configurationId="JUnit" />
+    <history-entry file="Lesson4_Task7 - 2019.07.17 at 00h 05m 25s.xml">
+      <configuration name="Lesson4_Task7" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8463000" />
+    <option name="totallyTimeSpent" value="15878000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25799572" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26174498" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -301,8 +325,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.329429" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39970717" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -311,20 +335,44 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.329429" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Maven" order="6" visible="true" weight="0.32995737" />
+      <window_info anchor="right" id="Maven" order="6" weight="0.3295302" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/javaexample/src/test/java/ru/selenium/tests/Lesson4_Task7.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/javaexample/src/test/java/ru/selenium/tests/Lesson4_Task7.java</url>
+          <line>45</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/javaexample/src/test/java/ru/selenium/tests/Lesson4_Task7.java</url>
+          <line>47</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/javaexample/pom.xml">
@@ -345,20 +393,65 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/javaexample/src/test/java/ru/selenium/tests/Lesson2_Task1.java">
+    <entry file="file://$PROJECT_DIR$/javaexample/src/test/java/ru/selenium/tests/Lesson2_Task3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="29" selection-end-column="1" />
+        <state relative-caret-position="578">
+          <caret line="34" column="5" lean-forward="true" selection-start-line="12" selection-end-line="34" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/javaexample/src/test/java/ru/selenium/tests/Lesson2_Task3.java">
+    <entry file="file://$PROJECT_DIR$/javaexample/src/test/java/ru/selenium/tests/Lesson2_Task1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="20" column="51" selection-start-line="20" selection-start-column="51" selection-end-line="20" selection-end-column="51" />
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="29" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="120" column="8" selection-start-line="120" selection-start-column="8" selection-end-line="120" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="281" selection-start-line="281" selection-end-line="281" />
+          <folding>
+            <element signature="e#10388#10389#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Documents/Testing tasks/Radarikus's tasks/seleniumAutotests/src/test/resources/1_OpenMainPage.feature">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/Documents/Testing tasks/Radarikus's tasks/seleniumAutotests/src/main/java/com/test/Steps/Steps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-765" />
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Vector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="317" selection-start-line="317" selection-end-line="317" />
+          <folding>
+            <element signature="e#11833#11834#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaexample/src/test/java/ru/selenium/tests/Lesson4_Task7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="543">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
