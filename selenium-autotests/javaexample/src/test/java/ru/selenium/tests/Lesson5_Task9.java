@@ -72,7 +72,7 @@ public class Lesson5_Task9 {
         // Check that zones are in alphabetical order
         for (String country : countriesList) {
             driver.findElement(By.xpath("//a[text()=\"" + country + "\"]")).click();
-            List<String> zonesList = driver.findElements(By.xpath("//h2[text()='Zones']/table/tbody/tr/td[3]/select/option[@selected='selected']")).stream().map(e -> e.getText()).collect(Collectors.toList());
+            List<String> zonesList = driver.findElements(By.xpath("//h2[text()='Zones']/following::table/tbody/tr/td[3]/select/option[@selected='selected']")).stream().map(e -> e.getText()).collect(Collectors.toList());
             checkListIsAlphabetized(zonesList);
             driver.navigate().back();
         }
