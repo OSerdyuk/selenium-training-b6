@@ -18,7 +18,6 @@ public class Lesson7_Task13 {
 
     private WebDriver driver;
     private WebDriverWait wait;
-    private Actions action;
 
     @Before
     public void start() {
@@ -26,7 +25,6 @@ public class Lesson7_Task13 {
         driver = new ChromeDriver();
         //driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
         wait = new WebDriverWait(driver, 10);
-        action = new Actions(driver);
     }
 
     @Test
