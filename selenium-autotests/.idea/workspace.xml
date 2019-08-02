@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="7e92cd22-a2cf-4267-bb75-028cb5f8ff19" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaexample/src/test/java/ru/selenium/tests/Lesson7_Task13.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaexample/src/test/java/ru/selenium/tests/Lesson7_Task13.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/javaexample/target/" />
@@ -14,36 +13,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/javaexample/src/test/java/ru/selenium/tests/Lesson8_Task14.java">
+        <entry file="file://$PROJECT_DIR$/javaexample/src/test/java/ru/selenium/tests/Lesson10_Task17.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="848">
-              <caret line="52" column="9" lean-forward="true" selection-start-line="52" selection-start-column="9" selection-end-line="52" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/javaexample/src/test/java/ru/selenium/tests/Lesson7_Task13.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="697">
-              <caret line="41" column="41" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="41" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/javaexample/src/test/java/ru/selenium/tests/Lesson4_Task7.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="382">
-              <caret line="34" column="46" lean-forward="true" selection-start-line="34" selection-start-column="6" selection-end-line="34" selection-end-column="46" />
+            <state relative-caret-position="155">
+              <caret line="47" column="189" selection-start-line="47" selection-start-column="137" selection-end-line="47" selection-end-column="189" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -82,6 +57,7 @@
         <option value="$PROJECT_DIR$/javaexample/src/test/java/ru/selenium/tests/Lesson6_Task12.java" />
         <option value="$PROJECT_DIR$/javaexample/src/test/java/ru/selenium/tests/Lesson7_Task13.java" />
         <option value="$PROJECT_DIR$/javaexample/src/test/java/ru/selenium/tests/Lesson8_Task14.java" />
+        <option value="$PROJECT_DIR$/javaexample/src/test/java/ru/selenium/tests/Lesson10_Task17.java" />
       </list>
     </option>
   </component>
@@ -202,10 +178,11 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564383010876" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564757442425" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RunDashboard">
@@ -220,8 +197,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Lesson8_Task14">
-    <configuration name="Lesson6_Task12" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.Lesson10_Task17.test">
+    <configuration name="Lesson10_Task17" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="javaexample" />
       <extension name="coverage">
         <pattern>
@@ -230,13 +207,13 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="ru.selenium.tests" />
-      <option name="MAIN_CLASS_NAME" value="ru.selenium.tests.Lesson6_Task12" />
+      <option name="MAIN_CLASS_NAME" value="ru.selenium.tests.Lesson10_Task17" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lesson7_Task13" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Lesson10_Task17.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="javaexample" />
       <extension name="coverage">
         <pattern>
@@ -245,8 +222,9 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="ru.selenium.tests" />
-      <option name="MAIN_CLASS_NAME" value="ru.selenium.tests.Lesson7_Task13" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="MAIN_CLASS_NAME" value="ru.selenium.tests.Lesson10_Task17" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -300,11 +278,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Lesson10_Task17.test" />
+        <item itemvalue="JUnit.Lesson10_Task17" />
         <item itemvalue="JUnit.Lesson8_Task14" />
         <item itemvalue="JUnit.Lesson8_Task14.test1" />
         <item itemvalue="JUnit.Lesson7_Task13.test" />
-        <item itemvalue="JUnit.Lesson7_Task13" />
-        <item itemvalue="JUnit.Lesson6_Task12" />
       </list>
     </recent_temporary>
   </component>
@@ -330,7 +308,8 @@
       <workItem from="1563808448084" duration="17761000" />
       <workItem from="1563979718255" duration="19773000" />
       <workItem from="1564158224660" duration="370000" />
-      <workItem from="1564379502942" duration="3248000" />
+      <workItem from="1564379502942" duration="3407000" />
+      <workItem from="1564663777310" duration="19819000" />
     </task>
     <task id="LOCAL-00001" summary="Published Lesson4_Task7.java">
       <created>1563311413771</created>
@@ -381,49 +360,55 @@
       <option name="project" value="LOCAL" />
       <updated>1564056304886</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Published Lesson8_Task14.java">
+      <created>1564383046841</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1564383046841</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Lesson7_Task13_test - 2019.07.25 at 15h 03m 16s.xml">
-      <configuration name="Lesson7_Task13.test" configurationId="JUnit" />
+    <history-entry file="Lesson10_Task17_test - 2019.08.02 at 15h 48m 14s.xml">
+      <configuration name="Lesson10_Task17.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Lesson7_Task13_test - 2019.07.25 at 15h 03m 41s.xml">
-      <configuration name="Lesson7_Task13.test" configurationId="JUnit" />
+    <history-entry file="Lesson10_Task17_test - 2019.08.02 at 15h 49m 47s.xml">
+      <configuration name="Lesson10_Task17.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Lesson7_Task13_test - 2019.07.25 at 15h 04m 06s.xml">
-      <configuration name="Lesson7_Task13.test" configurationId="JUnit" />
+    <history-entry file="Lesson10_Task17_test - 2019.08.02 at 15h 50m 08s.xml">
+      <configuration name="Lesson10_Task17.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Lesson8_Task14 - 2019.07.29 at 09h 26m 42s.xml">
-      <configuration name="Lesson8_Task14" configurationId="JUnit" />
+    <history-entry file="Lesson10_Task17_test - 2019.08.02 at 15h 50m 50s.xml">
+      <configuration name="Lesson10_Task17.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Lesson8_Task14 - 2019.07.29 at 09h 31m 37s.xml">
-      <configuration name="Lesson8_Task14" configurationId="JUnit" />
+    <history-entry file="Lesson10_Task17_test - 2019.08.02 at 15h 51m 41s.xml">
+      <configuration name="Lesson10_Task17.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Lesson8_Task14 - 2019.07.29 at 09h 32m 12s.xml">
-      <configuration name="Lesson8_Task14" configurationId="JUnit" />
+    <history-entry file="Lesson10_Task17_test - 2019.08.02 at 15h 57m 13s.xml">
+      <configuration name="Lesson10_Task17.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Lesson8_Task14 - 2019.07.29 at 09h 36m 23s.xml">
-      <configuration name="Lesson8_Task14" configurationId="JUnit" />
+    <history-entry file="Lesson10_Task17_test - 2019.08.02 at 17h 27m 32s.xml">
+      <configuration name="Lesson10_Task17.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Lesson8_Task14 - 2019.07.29 at 09h 41m 26s.xml">
-      <configuration name="Lesson8_Task14" configurationId="JUnit" />
+    <history-entry file="Lesson10_Task17_test - 2019.08.02 at 17h 43m 10s.xml">
+      <configuration name="Lesson10_Task17.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Lesson8_Task14 - 2019.07.29 at 09h 44m 45s.xml">
-      <configuration name="Lesson8_Task14" configurationId="JUnit" />
+    <history-entry file="Lesson10_Task17_test - 2019.08.02 at 17h 43m 17s.xml">
+      <configuration name="Lesson10_Task17.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Lesson8_Task14_test1 - 2019.07.29 at 09h 49m 18s.xml">
-      <configuration name="Lesson8_Task14.test1" configurationId="JUnit" />
+    <history-entry file="Lesson10_Task17_test - 2019.08.02 at 17h 44m 46s.xml">
+      <configuration name="Lesson10_Task17.test" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="88011000" />
+    <option name="totallyTimeSpent" value="107989000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28464818" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28784648" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -495,52 +480,91 @@
     <MESSAGE value="Published Lesson5_Task10.java" />
     <MESSAGE value="Fixed locator" />
     <MESSAGE value="Published Lesson7_Task13.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Published Lesson7_Task13.java" />
+    <MESSAGE value="Published Lesson8_Task14.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Published Lesson8_Task14.java" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/javaexample/src/test/java/ru/selenium/tests/Lesson10_Task17.java</url>
+          <line>54</line>
+          <properties />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/javaexample/src/test/java/ru/selenium/tests/Lesson10_Task17.java</url>
+          <line>59</line>
+          <properties />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/javaexample/src/test/java/ru/selenium/tests/Lesson10_Task17.java</url>
+          <line>49</line>
+          <properties />
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/javaexample/src/test/java/ru/selenium/tests/Lesson10_Task17.java</url>
+          <line>47</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateCodeFragment">
       <expression>
-        <expression-string>driver.findElements(By.cssSelector((&quot;div#box-checkout-cart ul li.shortcut&quot;))).size()</expression-string>
+        <expression-string>List&lt;WebElement&gt; list =  driver.findElements(By.cssSelector(&quot;a[href*='product_id='][title=Edit]&gt;i&quot;));
+list.get(0).findElement(By.xpath(&quot;./../a&quot;)).getAttribute(&quot;href&quot;);</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>driver.findElement(By.xpath(&quot;//form[@name='catalog_form']/descendant::table[@class='dataTable']/tbody/descendant::tr/td[3]/a[text()='Rubber Frog']&quot;)).isDisplayed()</expression-string>
+        <expression-string>driver.findElements(By.cssSelector(&quot;a[href*='product_id='][title=Edit]&gt;i&quot;))</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>driver.findElement(By.xpath(&quot;//form[@name='catalog_form']/descendant::table[@class='dataTable']/tbody/descendant::tr/td[3]/a[text()='Rubber Frog']&quot;))</expression-string>
+        <expression-string>pencilProductLink.findElement(By.xpath(&quot;./../../../following-sibling::tr/td[3]/a&quot;)).getText()</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>driver.findElement(By.xpath(&quot;//form[@name='catalog_form']/descendant::table[@class='dataTable']/tbody/descendant::tr/td[3]/a[text()='Rubber Frog'])&quot;))</expression-string>
+        <expression-string>pencilProductLink.findElement(By.xpath(&quot;./../../../following-sibling::tr/td[5]/a/i&quot;));</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>driver.findElement(By.xpath(&quot;//form[@name='catalog_form']/descendant::table[@class='dataTable']/tbody/descendant::tr/td[3]/a[text()='Rubber Frog'])&quot;)).isDisplayed()</expression-string>
+        <expression-string>pencilProductLink.findElement(By.xpath(&quot;./../../../following-sibling::tr/td[3]/a&quot;)).getText();</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>Assert.assertTrue(&quot;The new product has not been added to the Catalog&quot;, driver.findElement(By.xpath(&quot;//form[@name='catalog_form']/descendant::table[@class='dataTable']/tbody/descendant::tr/td[3]/a[text()='Rubber Frog'])&quot;)).isDisplayed())</expression-string>
+        <expression-string>pencilProductLink.findElement(By.xpath(&quot;./../../../following-sibling::tr/td[3]/a&quot;));</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>driver.findElement(By.xpath(&quot;//table[@class='dataTable']/tbody/following::tr/td[3]/a[text()='Rubber Frog']&quot;))</expression-string>
+        <expression-string>pencilProductLink.findElement(By.xpath(&quot;./../../../following-sibling::tr/td[4]/a/i&quot;));</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>driver.findElement(By.cssSelector(&quot;input[name='short_description[en]']&quot;))</expression-string>
+        <expression-string>driver.findElement(By.xpath(&quot;./../../../following-sibling::tr/td[3]/a&quot;)).getText()</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>driver.findElement(By.xpath(&quot;//table/tbody/tr/td[contains(text(),'Short Description')]&quot;))</expression-string>
+        <expression-string>driver.findElement(By.xpath(&quot;./../../../following-sibling::tr/td[5]/a[@title='Edit']/i&quot;))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>driver.findElement(By.xpath(&quot;./../../../../../following-sibling::tr/td[5]/a[@title='Edit']/i&quot;))</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
@@ -569,16 +593,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="127">
           <caret line="120" column="8" selection-start-line="120" selection-start-column="8" selection-end-line="120" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="127">
-          <caret line="281" selection-start-line="281" selection-end-line="281" />
-          <folding>
-            <element signature="e#10388#10389#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -629,24 +643,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/model/FrameworkMethod.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
-          <folding>
-            <element signature="e#870#1063#0" expanded="true" />
-            <element signature="e#1062#1063#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/statements/InvokeMethod.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -656,26 +652,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/javaexample/src/test/java/ru/selenium/tests/images/GreenFrog.jpg">
       <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javaexample/src/test/java/ru/selenium/tests/Lesson6_Task12.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-447">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javaexample/src/test/java/ru/selenium/tests/Lesson6_Task11.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="485">
-          <caret line="43" column="23" lean-forward="true" selection-start-line="43" selection-start-column="23" selection-end-line="43" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/javaexample/src/test/java/ru/selenium/tests/Lesson2_Task1.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -718,26 +694,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/javaexample/src/test/java/ru/selenium/tests/Lesson5_Task10.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="48" lean-forward="true" selection-start-line="27" selection-start-column="8" selection-end-line="28" selection-end-column="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javaexample/src/test/java/ru/selenium/tests/Lesson5_Task9.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="781">
-          <caret line="82" column="5" lean-forward="true" selection-start-line="17" selection-end-line="82" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/javaexample/src/test/java/ru/selenium/tests/Lesson4_Task7.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="382">
@@ -748,10 +704,226 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/javaexample/src/test/java/ru/selenium/tests/Lesson6_Task12.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaexample/src/test/java/ru/selenium/tests/Lesson6_Task11.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="485">
+          <caret line="43" column="23" lean-forward="true" selection-start-line="43" selection-start-column="23" selection-end-line="43" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaexample/src/test/java/ru/selenium/tests/Lesson5_Task10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="28" column="48" lean-forward="true" selection-start-line="27" selection-start-column="8" selection-end-line="28" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="1256" selection-start-line="1256" selection-end-line="1256" />
+          <folding>
+            <element signature="e#10361#10362#0" expanded="true" />
+            <element signature="e#10388#10389#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/25.0-jre/guava-25.0-jre.jar!/com/google/common/collect/ImmutableBiMapFauxverideShim.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/25.0-jre/guava-25.0-jre.jar!/com/google/common/collect/CollectPreconditions.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/25.0-jre/guava-25.0-jre.jar!/com/google/common/collect/SingletonImmutableBiMap.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/25.0-jre/guava-25.0-jre.jar!/com/google/common/collect/ImmutableBiMap.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+          <folding>
+            <element signature="e#1249#1250#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/25.0-jre/guava-25.0-jre.jar!/com/google/common/collect/ImmutableMap.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="68" selection-start-line="68" selection-end-line="68" />
+          <folding>
+            <element signature="e#2705#2706#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/3.141.59/selenium-remote-driver-3.141.59.jar!/org/openqa/selenium/remote/RemoteWebElement.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="272" selection-start-line="272" selection-end-line="272" />
+          <folding>
+            <element signature="e#2357#2358#0" expanded="true" />
+            <element signature="e#2433#2434#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/3.141.59/selenium-remote-driver-3.141.59.jar!/org/openqa/selenium/remote/SessionId.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="e#613#614#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/3.141.59/selenium-remote-driver-3.141.59.jar!/org/openqa/selenium/remote/RemoteWebDriver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="499" selection-start-line="499" selection-end-line="499" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/3.141.59/selenium-remote-driver-3.141.59.jar!/org/openqa/selenium/remote/service/DriverCommandExecutor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/3.141.59/selenium-remote-driver-3.141.59.jar!/org/openqa/selenium/remote/HttpCommandExecutor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="92" selection-start-line="92" selection-end-line="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/3.141.59/selenium-remote-driver-3.141.59.jar!/org/openqa/selenium/remote/http/JsonHttpCommandCodec.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="116" selection-start-line="116" selection-end-line="116" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/3.141.59/selenium-remote-driver-3.141.59.jar!/org/openqa/selenium/remote/Command.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="e#771#772#0" expanded="true" />
+            <element signature="e#802#803#0" expanded="true" />
+            <element signature="e#834#835#0" expanded="true" />
+            <element signature="e#879#880#0" expanded="true" />
+            <element signature="e#917#918#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/3.141.59/selenium-remote-driver-3.141.59.jar!/org/openqa/selenium/remote/http/AbstractHttpCommandCodec.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="200" selection-start-line="200" selection-end-line="200" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/25.0-jre/guava-25.0-jre.jar!/com/google/common/collect/ImmutableList.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="186" selection-start-line="186" selection-end-line="186" />
+          <folding>
+            <element signature="e#6291#6292#0" expanded="true" />
+            <element signature="e#6333#6334#0" expanded="true" />
+            <element signature="e#6433#6434#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/25.0-jre/guava-25.0-jre.jar!/com/google/common/collect/UnmodifiableIterator.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/25.0-jre/guava-25.0-jre.jar!/com/google/common/collect/UnmodifiableListIterator.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/25.0-jre/guava-25.0-jre.jar!/com/google/common/base/Preconditions.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="567" selection-start-line="567" selection-end-line="567" />
+          <folding>
+            <element signature="e#20954#20955#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/25.0-jre/guava-25.0-jre.jar!/com/google/common/collect/AbstractIndexedListIterator.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/25.0-jre/guava-25.0-jre.jar!/com/google/common/collect/Iterators.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="39">
+          <caret line="842" selection-start-line="842" selection-end-line="842" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/25.0-jre/guava-25.0-jre.jar!/com/google/common/collect/RegularImmutableList.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/model/FrameworkMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-288">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/javaexample/src/test/java/ru/selenium/tests/Lesson7_Task13.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="697">
-          <caret line="41" column="41" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="41" />
+        <state relative-caret-position="85">
+          <caret line="26" selection-start-line="26" selection-end-line="26" selection-end-column="45" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -760,8 +932,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/javaexample/src/test/java/ru/selenium/tests/Lesson8_Task14.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="848">
-          <caret line="52" column="9" lean-forward="true" selection-start-line="52" selection-start-column="9" selection-end-line="52" selection-end-column="9" />
+        <state relative-caret-position="746">
+          <caret line="59" column="1" selection-start-line="59" selection-start-column="1" selection-end-line="59" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaexample/src/test/java/ru/selenium/tests/Lesson5_Task9.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="56" column="5" lean-forward="true" selection-start-line="52" selection-start-column="1" selection-end-line="56" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/statements/RunAfters.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="25" column="16" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaexample/src/test/java/ru/selenium/tests/Lesson10_Task17.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="47" column="189" selection-start-line="47" selection-start-column="137" selection-end-line="47" selection-end-column="189" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
